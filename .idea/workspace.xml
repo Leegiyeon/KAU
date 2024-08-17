@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8e71d6-21e6-485c-a32c-ad1c28d59538" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/NeuralNetwork.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KAU_Computer_Network/22-1 컴퓨터네트워크 6조 텀프 제안서.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/KAU_Computer_Network/22-1-Computer-Network-Team_6.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KAU_Computer_Network/프로젝트_프론트/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/KAU_Computer_Network/Front/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KAU_Computer_Network/프로젝트_프론트/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/KAU_Computer_Network/Front/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KAU_Computer_Network/프로젝트_프론트/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/KAU_Computer_Network/Front/style2.css" afterDir="false" />
-    </list>
+    <list default="true" id="bc8e71d6-21e6-485c-a32c-ad1c28d59538" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +65,7 @@
       <updated>1713930831217</updated>
       <workItem from="1713930832550" duration="209000" />
       <workItem from="1714440948215" duration="14000" />
-      <workItem from="1723903591818" duration="965000" />
+      <workItem from="1723903591818" duration="1011000" />
     </task>
     <servers />
   </component>
